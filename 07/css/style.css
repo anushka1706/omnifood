@@ -10,6 +10,7 @@ body {
   font-family: "Rubik";
   color: #555;
   overflow-x: hidden;
+  color: red;
 }
 html {
   font-size: 62.5%;
